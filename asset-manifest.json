@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://apopheniaeu.github.io/csb-u74fp9/static/css/main.c5f30946.chunk.css",
+    "main.js": "https://apopheniaeu.github.io/csb-u74fp9/static/js/main.ade05882.chunk.js",
+    "main.js.map": "https://apopheniaeu.github.io/csb-u74fp9/static/js/main.ade05882.chunk.js.map",
+    "runtime-main.js": "https://apopheniaeu.github.io/csb-u74fp9/static/js/runtime-main.9e63ad1d.js",
+    "runtime-main.js.map": "https://apopheniaeu.github.io/csb-u74fp9/static/js/runtime-main.9e63ad1d.js.map",
+    "static/js/2.04589cfc.chunk.js": "https://apopheniaeu.github.io/csb-u74fp9/static/js/2.04589cfc.chunk.js",
+    "static/js/2.04589cfc.chunk.js.map": "https://apopheniaeu.github.io/csb-u74fp9/static/js/2.04589cfc.chunk.js.map",
+    "index.html": "https://apopheniaeu.github.io/csb-u74fp9/index.html",
+    "static/css/main.c5f30946.chunk.css.map": "https://apopheniaeu.github.io/csb-u74fp9/static/css/main.c5f30946.chunk.css.map",
+    "static/js/2.04589cfc.chunk.js.LICENSE.txt": "https://apopheniaeu.github.io/csb-u74fp9/static/js/2.04589cfc.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "https://apopheniaeu.github.io/csb-u74fp9/static/media/Programme-Primitiv.2b17f356.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e63ad1d.js",
+    "static/js/2.04589cfc.chunk.js",
+    "static/css/main.c5f30946.chunk.css",
+    "static/js/main.ade05882.chunk.js"
+  ]
+}
